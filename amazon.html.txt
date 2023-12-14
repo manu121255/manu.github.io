@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download and Run</title>
+</head>
+<body>
+
+    <h1>Welcome to the Download Page</h1>
+
+    <p>Click the link below to download and run the application:</p>
+
+    <!-- Replace 'your_download_link_here' with the actual link to your executable file -->
+    <a href="your_download_link_here" download="your_app_name.exe">
+        Download Application
+    </a>
+
+    <p>After downloading, run the application to execute its functionality.</p>
+
+</body>
+</html>
